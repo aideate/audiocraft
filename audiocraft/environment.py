@@ -44,7 +44,7 @@ class AudioCraftEnvironment:
             your team name.
     """
     _instance = None
-    DEFAULT_TEAM = "default"
+    DEFAULT_TEAM = "labs"
 
     def __init__(self) -> None:
         """Loads configuration."""
